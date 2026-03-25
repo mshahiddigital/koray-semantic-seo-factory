@@ -1,0 +1,9 @@
+origin	destination	route_type	slug	primary_query	distance_km	time_offpeak_min	time_peak_min	price_sedan	price_suv	price_van	price_coaster	notes
+Jeddah Airport (JED)	Makkah	airport	/jeddah-airport-to-makkah-taxi/	jeddah airport to makkah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Define meeting point + delay policy.
+Jeddah Airport (JED)	Madinah	airport	/jeddah-airport-to-madinah-taxi/	jeddah airport to madinah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Long transfer; set expectations.
+Madinah Airport	Makkah	airport	/madinah-airport-to-makkah-taxi/	madinah airport to makkah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Pickup steps + luggage guidance.
+Makkah	Madinah	intercity	/makkah-to-madinah-taxi/	makkah to madinah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Core route.
+Makkah	Jeddah	intercity	/makkah-to-jeddah-taxi/	makkah to jeddah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Include airport vs city drop-off.
+Makkah	Taif	intercity	/makkah-to-taif-taxi/	makkah to taif taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Optional day trip angle.
+Riyadh	Makkah	intercity	/riyadh-to-makkah-taxi/	riyadh to makkah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Long-distance route.
+Riyadh	Madinah	intercity	/riyadh-to-madinah-taxi/	riyadh to madinah taxi	TBD	TBD	TBD	TBD	TBD	TBD	TBD	Long-distance route.

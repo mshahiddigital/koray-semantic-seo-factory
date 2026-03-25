@@ -1,0 +1,8 @@
+faq_id	question	answer_stub	target_slug	intent_stage
+FAQ001	How do I book an Umrah taxi?	"Provide route, date/time, passengers, luggage, and flight number (if airport)."	/booking/	Transactional
+FAQ002	Do you pick up from Jeddah airport to Makkah hotels?	"Confirm terminal, arrival time, and hotel details."	/jeddah-airport-to-makkah-taxi/	Commercial
+FAQ003	What happens if my flight is delayed?	Explain your delay and waiting policy clearly (TBD).	/how-airport-pickup-works/	Risk reduction
+FAQ004	How is the price calculated?	Route + vehicle + time + season + waiting; offer a quick quote.	/pricing/	Commercial
+FAQ005	Which vehicle should I choose for my group?	Recommend based on passengers + luggage; provide examples.	/fleet/	Commercial
+FAQ006	Can we stop for prayer or rest on the way?	Confirm whether stops are allowed and any limits (TBD).	/makkah-to-madinah-taxi/	Planning
+FAQ007	Do you offer Ziyarat tours in Makkah or Madinah?	List example itinerary and durations (if offered).	/makkah-ziyarat-taxi/	Commercial

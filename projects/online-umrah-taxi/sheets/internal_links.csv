@@ -1,0 +1,57 @@
+﻿from_slug,to_slug,anchor_variants
+/online-umrah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/pricing/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/fleet/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/how-airport-pickup-works/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/airport-transfers/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/intercity-transfers/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/hajj-taxi-service/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/umrah-taxi-makkah/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/umrah-taxi-madinah/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/umrah-taxi-jeddah/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/umrah-taxi-taif/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/umrah-taxi-riyadh/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/jeddah-airport-to-makkah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/jeddah-airport-to-madinah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/madinah-airport-to-makkah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/makkah-to-madinah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/makkah-to-jeddah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/makkah-to-taif-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/riyadh-to-makkah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/riyadh-to-madinah-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/makkah-ziyarat-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/madinah-ziyarat-taxi/,/booking/,book now|check availability|get a quote|WhatsApp booking
+/jeddah-airport-to-makkah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/jeddah-airport-to-makkah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/jeddah-airport-to-makkah-taxi/,/airport-transfers/,airport transfers|airport pickup service
+/jeddah-airport-to-madinah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/jeddah-airport-to-madinah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/jeddah-airport-to-madinah-taxi/,/airport-transfers/,airport transfers|airport pickup service
+/madinah-airport-to-makkah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/madinah-airport-to-makkah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/madinah-airport-to-makkah-taxi/,/airport-transfers/,airport transfers|airport pickup service
+/makkah-to-madinah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/makkah-to-madinah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/makkah-to-madinah-taxi/,/intercity-transfers/,intercity transfers|city to city transfers
+/makkah-to-jeddah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/makkah-to-jeddah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/makkah-to-jeddah-taxi/,/intercity-transfers/,intercity transfers|city to city transfers
+/makkah-to-taif-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/makkah-to-taif-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/makkah-to-taif-taxi/,/intercity-transfers/,intercity transfers|city to city transfers
+/riyadh-to-makkah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/riyadh-to-makkah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/riyadh-to-makkah-taxi/,/intercity-transfers/,intercity transfers|city to city transfers
+/riyadh-to-madinah-taxi/,/pricing/,pricing|packages|see pricing|get a quote
+/riyadh-to-madinah-taxi/,/fleet/,fleet|vehicle options|choose your vehicle
+/riyadh-to-madinah-taxi/,/intercity-transfers/,intercity transfers|city to city transfers
+/umrah-taxi-makkah/,/airport-transfers/,airport transfers|airport pickup
+/umrah-taxi-makkah/,/intercity-transfers/,intercity transfers|private transfers
+/umrah-taxi-madinah/,/airport-transfers/,airport transfers|airport pickup
+/umrah-taxi-madinah/,/intercity-transfers/,intercity transfers|private transfers
+/umrah-taxi-jeddah/,/airport-transfers/,airport transfers|airport pickup
+/umrah-taxi-jeddah/,/intercity-transfers/,intercity transfers|private transfers
+/umrah-taxi-taif/,/airport-transfers/,airport transfers|airport pickup
+/umrah-taxi-taif/,/intercity-transfers/,intercity transfers|private transfers
+/umrah-taxi-riyadh/,/airport-transfers/,airport transfers|airport pickup
+/umrah-taxi-riyadh/,/intercity-transfers/,intercity transfers|private transfers

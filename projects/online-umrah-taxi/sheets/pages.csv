@@ -1,0 +1,24 @@
+page_id	slug	page_type	phase	primary_query	intent	brief_path	schema	notes
+HOME	/online-umrah-taxi/	core	P1	online umrah taxi	Transactional	projects/online-umrah-taxi/briefs/00-main-service-page.md	TransportationService|FAQPage	Main service landing page.
+BOOK	/booking/	core	P1	book umrah taxi online	Transactional	projects/online-umrah-taxi/briefs/07-booking-contact.md	Service|FAQPage	All CTAs point here.
+PRICE	/pricing/	core	P1	umrah taxi price	Commercial	projects/online-umrah-taxi/briefs/05-pricing-packages.md	Service|FAQPage	Prefer ranges + quote form (avoid stale exact prices).
+FLEET	/fleet/	core	P1	umrah taxi van	Commercial	projects/online-umrah-taxi/briefs/06-fleet-capacity.md	Service	Vehicle fit by group and luggage.
+PICKUP	/how-airport-pickup-works/	support	P1	airport pickup umrah taxi	Informational	projects/online-umrah-taxi/briefs/09-how-airport-pickup-works.md	HowTo|FAQPage	Risk reduction content that converts.
+AIRHUB	/airport-transfers/	hub	P2	umrah airport transfer	Commercial	projects/online-umrah-taxi/briefs/10-airport-transfers-hub.md	Service	Distribute to airport route pages.
+CITYHUB	/intercity-transfers/	hub	P2	umrah intercity taxi	Commercial	projects/online-umrah-taxi/briefs/11-intercity-transfers-hub.md	Service	Distribute to intercity route pages.
+HAJJ	/hajj-taxi-service/	seasonal	P4	hajj taxi service makkah	Transactional	projects/online-umrah-taxi/briefs/12-hajj-taxi-service.md	Service|FAQPage	Do not claim restricted access without permits.
+CITY_MAK	/umrah-taxi-makkah/	city	P3	umrah taxi makkah	Local commercial	projects/online-umrah-taxi/briefs/19-city-makkah.md	Service|FAQPage	Link to top routes + ziyarat.
+CITY_MED	/umrah-taxi-madinah/	city	P3	umrah taxi madinah	Local commercial	projects/online-umrah-taxi/briefs/20-city-madinah.md	Service|FAQPage	Link to transfers + ziyarat.
+CITY_JED	/umrah-taxi-jeddah/	city	P3	umrah taxi jeddah	Local commercial	projects/online-umrah-taxi/briefs/21-city-jeddah.md	Service|FAQPage	Emphasize airport transfers.
+CITY_TIF	/umrah-taxi-taif/	city	P4	umrah taxi taif	Local commercial	projects/online-umrah-taxi/briefs/22-city-taif.md	Service|FAQPage	Seasonal day trips if offered.
+CITY_RUH	/umrah-taxi-riyadh/	city	P4	umrah taxi riyadh	Local commercial	projects/online-umrah-taxi/briefs/23-city-riyadh.md	Service|FAQPage	Long-distance expectations.
+ROUTE_JED_MAK	/jeddah-airport-to-makkah-taxi/	route_airport	P2	jeddah airport to makkah taxi	Commercial	projects/online-umrah-taxi/briefs/01-jeddah-airport-to-makkah.md	Service|FAQPage	Include meeting point + delay policy.
+ROUTE_JED_MED	/jeddah-airport-to-madinah-taxi/	route_airport	P2	jeddah airport to madinah taxi	Commercial	projects/online-umrah-taxi/briefs/13-jeddah-airport-to-madinah.md	Service|FAQPage	Long transfer; set expectations.
+ROUTE_MED_MAK	/madinah-airport-to-makkah-taxi/	route_airport	P2	madinah airport to makkah taxi	Commercial	projects/online-umrah-taxi/briefs/14-madinah-airport-to-makkah.md	Service|FAQPage	Include pickup steps.
+ROUTE_MAK_MED	/makkah-to-madinah-taxi/	route_intercity	P2	makkah to madinah taxi	Commercial	projects/online-umrah-taxi/briefs/02-makkah-to-madinah.md	Service|FAQPage	Core route.
+ROUTE_MAK_JED	/makkah-to-jeddah-taxi/	route_intercity	P2	makkah to jeddah taxi	Commercial	projects/online-umrah-taxi/briefs/15-makkah-to-jeddah.md	Service|FAQPage	Split airport vs city drop-off sections.
+ROUTE_MAK_TIF	/makkah-to-taif-taxi/	route_intercity	P4	makkah to taif taxi	Commercial	projects/online-umrah-taxi/briefs/16-makkah-to-taif.md	Service|FAQPage	Optional tour angle.
+ROUTE_RUH_MAK	/riyadh-to-makkah-taxi/	route_intercity	P4	riyadh to makkah taxi	Commercial	projects/online-umrah-taxi/briefs/17-riyadh-to-makkah.md	Service|FAQPage	Long-distance route.
+ROUTE_RUH_MED	/riyadh-to-madinah-taxi/	route_intercity	P4	riyadh to madinah taxi	Commercial	projects/online-umrah-taxi/briefs/18-riyadh-to-madinah.md	Service|FAQPage	Long-distance route.
+ZIY_MAK	/makkah-ziyarat-taxi/	ziyarat	P3	makkah ziyarat taxi	Commercial	projects/online-umrah-taxi/briefs/03-makkah-ziyarat.md	Service|FAQPage	Driver is transport; do not claim religious guidance unless qualified.
+ZIY_MED	/madinah-ziyarat-taxi/	ziyarat	P3	madinah ziyarat taxi	Commercial	projects/online-umrah-taxi/briefs/04-madinah-ziyarat.md	Service|FAQPage	Itinerary examples + customization.

@@ -1,0 +1,143 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Jeddah Airport to Makkah Taxi Transfer",
+    "description": "Private licensed taxi transfer from King Abdulaziz International Airport (JED/KAIA) to Makkah hotels for Umrah pilgrims. Fixed prices from SAR 240. 90-minute free waiting. Flight tracking included.",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Online Umrah Taxi",
+      "url": "https://onlineumrahtaxi.com/"
+    },
+    "areaServed": [
+      {
+        "@type": "Airport",
+        "name": "King Abdulaziz International Airport",
+        "iataCode": "JED",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Jeddah",
+          "addressCountry": "SA"
+        }
+      },
+      {
+        "@type": "City",
+        "name": "Makkah",
+        "addressCountry": "SA"
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Sedan Transfer — Jeddah Airport to Makkah",
+        "description": "Toyota Camry or Hyundai Sonata — 1 to 3 passengers, 2 large suitcases",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 240,
+          "maxPrice": 350,
+          "priceCurrency": "SAR"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "SUV/MPV Transfer — Jeddah Airport to Makkah",
+        "description": "Hyundai Staria or GMC Yukon — 4 to 6 passengers, 4 large suitcases",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 350,
+          "maxPrice": 480,
+          "priceCurrency": "SAR"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "Van Transfer — Jeddah Airport to Makkah",
+        "description": "Toyota Hiace — 7 to 9 passengers, 6 large suitcases",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 480,
+          "maxPrice": 650,
+          "priceCurrency": "SAR"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does a taxi from Jeddah Airport to Makkah cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A sedan taxi from King Abdulaziz International Airport (JED) to Makkah costs SAR 240–350 in standard season. An SUV or 7-seat MPV costs SAR 350–480. Prices rise by 20–35% during Ramadan and Hajj peak periods, per market rates observed in February 2026."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does the journey from Jeddah Airport to Makkah take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The journey is approximately 90 km via King Fahd Road and takes 1 hour to 1.5 hours off-peak. Expect 2–3 hours during Ramadan nights, Hajj season traffic, or Friday evening travel."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which terminal does my driver meet me at Jeddah Airport?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your driver meets you at the arrivals hall of the terminal you specify at booking — Terminal 1 for most international arrivals, or Terminal 2 for domestic connections. The driver sends their exact position in the hall via WhatsApp."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Jeddah Airport to Makkah taxi price fixed or metered?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The price is fixed and agreed before the journey. No meter, no hidden tolls, no parking charges added at the end."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I travel with a baby seat or wheelchair from Jeddah Airport?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Baby seats and child booster seats are available on request at no additional charge. Wheelchairs fold and fit in the boot of the Hiace van. A driver assistant is available for pilgrims who need physical help boarding — contact us at booking."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if my flight is delayed arriving at Jeddah Airport?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We monitor your flight number live. Delays under 90 minutes incur no additional charge. For delays over 90 minutes, your driver contacts you via WhatsApp to confirm the revised arrival time. The driver waits at the revised time with no penalty."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Online Umrah Taxi",
+        "item": "https://onlineumrahtaxi.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Airport Transfers",
+        "item": "https://onlineumrahtaxi.com/airport-transfers/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Jeddah Airport to Makkah Taxi",
+        "item": "https://onlineumrahtaxi.com/jeddah-airport-to-makkah-taxi/"
+      }
+    ]
+  }
+]

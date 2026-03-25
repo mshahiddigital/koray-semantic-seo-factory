@@ -1,0 +1,15 @@
+﻿entity,attribute,value_placeholder,pages,notes
+Online Umrah Taxi,service,airport transfers|intercity transfers|ziyarat tours,/online-umrah-taxi/|/airport-transfers/|/intercity-transfers/|/makkah-ziyarat-taxi/|/madinah-ziyarat-taxi/,Core service definition.
+Booking,channels,WhatsApp|form|phone,/online-umrah-taxi/|/booking/,Must be consistent sitewide.
+Pricing,factors,route|vehicle|time|season|waiting,/pricing/|/jeddah-airport-to-makkah-taxi/|/makkah-to-madinah-taxi/,Avoid exact prices unless maintained.
+Waiting time,included minutes,TBD,/how-airport-pickup-works/|/jeddah-airport-to-makkah-taxi/,Define clearly.
+Flight delay,policy,TBD,/how-airport-pickup-works/|/airport-transfers/|/jeddah-airport-to-makkah-taxi/,Critical trust element.
+Vehicles,types,sedan|SUV|van|coaster,/fleet/|/online-umrah-taxi/,Match real fleet.
+Luggage,capacity guidance,TBD by vehicle,/fleet/|/jeddah-airport-to-makkah-taxi/|/makkah-to-madinah-taxi/,Reduce friction.
+Makkah,service area,TBD (hotels/areas served),/umrah-taxi-makkah/|/online-umrah-taxi/,Local relevance.
+Madinah,service area,TBD (hotels/areas served),/umrah-taxi-madinah/|/online-umrah-taxi/,Local relevance.
+Jeddah,service area,TBD (airport/city),/umrah-taxi-jeddah/|/online-umrah-taxi/,Local relevance.
+Taif,service area,TBD,/umrah-taxi-taif/,Only include if you truly serve.
+Riyadh,service area,TBD,/umrah-taxi-riyadh/,Only include if you truly serve.
+Support,hours,TBD,/online-umrah-taxi/|/booking/,Do not claim 24/7 unless true.
+Cancellation,policy,TBD,/booking/|/online-umrah-taxi/,State simply + link to full policy if available.

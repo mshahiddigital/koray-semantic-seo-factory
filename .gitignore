@@ -1,0 +1,38 @@
+# Secrets and credentials
+apidetails.json
+*.env
+.env.*
+!.env.example
+
+# Claude Code local settings (contains secrets/permissions)
+.claude/settings.json
+.claude/settings.local.json
+
+# URL Indexer SaaS (separate project with build artifacts)
+url-indexer-saas/
+
+# Node
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project temp files
+projects/*/temp/

@@ -1,0 +1,138 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Makkah to Madinah Taxi Transfer",
+    "description": "Private intercity taxi from Makkah to Madinah — 430 km route via Route 60, fixed prices from SAR 500 for sedan. Includes one complimentary prayer stop. Full-day journey with door-to-door hotel service.",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Online Umrah Taxi",
+      "url": "https://onlineumrahtaxi.com/"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Makkah",
+        "addressCountry": "SA"
+      },
+      {
+        "@type": "City",
+        "name": "Madinah",
+        "addressCountry": "SA"
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Sedan Transfer — Makkah to Madinah",
+        "description": "Toyota Camry or Hyundai Sonata — 1 to 3 passengers, 2 large suitcases. Journey: 430 km, 4.5–5 hours off-peak.",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 500,
+          "maxPrice": 650,
+          "priceCurrency": "SAR"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "SUV/MPV Transfer — Makkah to Madinah",
+        "description": "Hyundai Staria or GMC Yukon — 4 to 6 passengers, 4 large suitcases.",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 700,
+          "maxPrice": 900,
+          "priceCurrency": "SAR"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "Van Transfer — Makkah to Madinah",
+        "description": "Toyota Hiace — 7 to 9 passengers, 6 large suitcases. Accommodates Zamzam water containers.",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 900,
+          "maxPrice": 1200,
+          "priceCurrency": "SAR"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does a taxi from Makkah to Madinah cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A sedan costs SAR 500–650 in standard season. An SUV or 7-seat MPV costs SAR 700–900. A 9-seat Hiace van costs SAR 900–1,200. Prices increase by 20–30% during Ramadan and Hajj season, per market rates observed in February 2026."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long is the drive from Makkah to Madinah?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The journey is 430 km via Route 60 and takes 4.5 to 5 hours off-peak. Expect 6–7 hours when departing Makkah during Ramadan nights or Hajj season due to congestion exiting the Haram area."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Makkah to Madinah taxi a shared or private service?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The service is fully private. The vehicle travels exclusively for your group with no shared seats and no additional stops for other passengers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the driver stop at the Prophet's Mosque on arrival in Madinah?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The driver can drop you at the nearest vehicle access point to your Madinah hotel. Direct access to the pedestrian zone around Masjid an-Nabawi is restricted to vehicles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I pay the full price for an empty seat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. The price is per vehicle, not per seat. A family of three in a sedan pays the sedan price; a couple pays the same sedan price. If you have seven passengers, book the Hiace at the van rate."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can we stop at Bir Ali Miqat on the way from Makkah to Madinah?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The Masjid al-Shajarah at Abyar Ali (Dhul Hulayfah), approximately 9 km southwest of Madinah, is the Miqat for pilgrims. If you need this stop, specify it at booking. The stop adds 20–30 minutes to the journey."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Online Umrah Taxi",
+        "item": "https://onlineumrahtaxi.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Intercity Transfers",
+        "item": "https://onlineumrahtaxi.com/intercity-transfers/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Makkah to Madinah Taxi",
+        "item": "https://onlineumrahtaxi.com/makkah-to-madinah-taxi/"
+      }
+    ]
+  }
+]

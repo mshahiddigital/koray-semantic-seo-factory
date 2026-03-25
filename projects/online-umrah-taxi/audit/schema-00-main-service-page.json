@@ -1,0 +1,161 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": ["LocalBusiness", "TransportationService"],
+    "name": "Online Umrah Taxi",
+    "description": "Private licensed taxi transfers between Jeddah Airport, Makkah, Madinah, Taif, and Riyadh for Umrah and Hajj pilgrims. 24/7 service. Fixed prices. English, Arabic, and Urdu-speaking drivers.",
+    "url": "https://onlineumrahtaxi.com/",
+    "telephone": "+966XXXXXXXXX",
+    "openingHours": "Mo-Su 00:00-23:59",
+    "priceRange": "SAR 200–2,400",
+    "currenciesAccepted": "SAR",
+    "paymentAccepted": "Cash, Bank Transfer",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Makkah",
+        "addressCountry": "SA"
+      },
+      {
+        "@type": "City",
+        "name": "Madinah",
+        "addressCountry": "SA"
+      },
+      {
+        "@type": "City",
+        "name": "Jeddah",
+        "addressCountry": "SA"
+      },
+      {
+        "@type": "City",
+        "name": "Taif",
+        "addressCountry": "SA"
+      },
+      {
+        "@type": "City",
+        "name": "Riyadh",
+        "addressCountry": "SA"
+      }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "SA",
+      "addressRegion": "Makkah Region"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Umrah Taxi Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Jeddah Airport to Makkah Taxi Transfer",
+            "description": "Private taxi from King Abdulaziz International Airport (JED) to Makkah hotels"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 240,
+            "maxPrice": 650,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah to Madinah Taxi Transfer",
+            "description": "Private intercity taxi from Makkah hotels to Madinah hotels — 430 km route"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 500,
+            "maxPrice": 1200,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah Ziyarat Tour",
+            "description": "Half-day or full-day private taxi for Makkah sacred sites tour"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 300,
+            "maxPrice": 650,
+            "priceCurrency": "SAR"
+          }
+        }
+      ]
+    },
+    "sameAs": []
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is included in the price?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The fixed price includes fuel, tolls, parking at the airport, driver waiting time up to 90 minutes after landing, and air conditioning. Child seats are available on request at no extra charge."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can women travel alone in your taxis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Solo women pilgrims travel safely in our vehicles. Drivers are professional and uniformed. A female companion in the vehicle can be arranged on request for an additional fee."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you stop at the Miqat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. For pilgrims departing from Jeddah Airport or Madinah, the driver will stop at the appropriate Miqat boundary on request. Specify this at booking."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you transport elderly or wheelchair users?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The Toyota Hiace accommodates folded wheelchairs in the boot. A driver assistant can be arranged for pilgrims who need physical assistance — notify us at booking."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if my flight is delayed?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We monitor your flight number live. If your delay is under 90 minutes, no additional charge applies. For delays over 90 minutes, we contact you via WhatsApp to confirm the revised pickup time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I book?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "WhatsApp your route, date, passenger count, vehicle preference, hotel name, and flight number. Confirmation arrives within 15 minutes during business hours or 60 minutes overnight."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Online Umrah Taxi",
+        "item": "https://onlineumrahtaxi.com/"
+      }
+    ]
+  }
+]

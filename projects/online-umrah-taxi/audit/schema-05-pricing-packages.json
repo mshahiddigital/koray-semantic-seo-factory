@@ -1,0 +1,166 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Umrah Taxi Pricing — All Routes and Vehicles",
+    "description": "Fixed-price Umrah taxi rates for all routes in Saudi Arabia. Prices by vehicle type: sedan (1–3 passengers), SUV/MPV (4–6 passengers), van/Hiace (7–9 passengers). All-inclusive pricing with no hidden tolls.",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Online Umrah Taxi",
+      "url": "https://onlineumrahtaxi.com/"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Umrah Taxi Price List 2026",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Jeddah Airport to Makkah — Sedan"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 240,
+            "maxPrice": 350,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Jeddah Airport to Makkah — SUV/MPV"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 350,
+            "maxPrice": 480,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah to Madinah — Sedan"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 500,
+            "maxPrice": 650,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah to Madinah — SUV/MPV"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 700,
+            "maxPrice": 900,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah to Madinah — Van/Hiace"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 900,
+            "maxPrice": 1200,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah to Jeddah — Sedan"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 220,
+            "maxPrice": 320,
+            "priceCurrency": "SAR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Makkah Ziyarat Half-Day Tour"
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 300,
+            "maxPrice": 400,
+            "priceCurrency": "SAR"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do Umrah taxi prices include tolls?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The Haramain Expressway tolls between Jeddah and Makkah and the Route 60 tolls between Makkah and Madinah are included in the quoted price. No extra amount is collected at the toll gate."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Umrah taxi price per person or per vehicle?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "All prices are per vehicle, not per person. A family of five in an SUV pays the SUV rate — not five individual fares."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much more does Umrah taxi cost during Ramadan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Prices increase by 20–25% during Ramadan and by 30–40% during the last 10 nights of Ramadan, reflecting verified seasonal demand increases among licensed operators in Saudi Arabia."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a cancellation fee for Umrah taxi booking?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cancellations made 48 or more hours before the scheduled pickup time incur no charge. Cancellations within 48 hours incur 50% of the quoted price. No-shows on the day are charged the full price."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Online Umrah Taxi",
+        "item": "https://onlineumrahtaxi.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Pricing & Packages",
+        "item": "https://onlineumrahtaxi.com/pricing/"
+      }
+    ]
+  }
+]
